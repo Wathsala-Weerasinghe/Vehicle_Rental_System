@@ -1,0 +1,254 @@
+		
+   *{
+   	margin: 0;
+   	padding: 30;
+   	
+    
+   }
+
+ 
+  .regfrom{
+    
+  	width: 650px;
+  	background-color:#e67300;
+   	margin-left: 30px;
+  	color:white;
+  	font-size: 29px;
+  	padding: 40px 0px 0px;
+  	text-align: center;
+  	border-radius: 15px 15px 0px 0px;
+  }
+  .mane{
+  	 background-color: #1a1a1a;
+  	 width: 650px;
+  	 margin-left: 30px;
+
+  }
+
+form{
+	padding: 20px;
+	left:60%;
+}
+
+#name{
+	width: 100%;
+	height: 70px;
+}
+ .name00{
+ 	margin-left: 25px;
+ 	margin-top: 20px;
+ 	width: 100px;
+ 	color: white;
+ 	font-size: 18px;
+ 	font-weight: 600;
+ }
+
+.Password00{
+	color: white;
+	width: 120px;
+	font-size: 14px;
+}
+
+.tname{
+	position: relative;
+	left: 180px;
+	top: -27px;
+	line-height: 30px;
+	border-radius: 6px;
+	padding: 0 3px;
+	font-size: 16px;
+
+
+}
+
+.card{
+	position: relative;
+	left: 380px;
+	top: -64px;
+	line-height: 30px;
+	border-radius: 6px;
+	padding: 0 -50px;
+	font-size: 16px;
+	color: #1a1a1a;
+
+}
+.firstlabel{
+	position: relative;
+	color: #e67300;
+	text-transform: capitalize;
+	font-size: 14px;
+	left: 220px;
+	top:-35px;
+}
+.lastlabel{
+	position: relative;
+	color: #e67300;
+	text-transform: capitalize;
+	font-size: 14px;
+	left: 450px;
+	top:-65px;
+}
+.cname{
+	position: relative;
+	left: 200px;
+	top: -37px;
+	line-height: 30px;
+	width: 130px;
+	border-radius: 6px;
+	padding: 0 22px;
+	font-size: 16px;
+	color: #e67300;
+
+}
+.email{
+	position: relative;
+	left: 200px;
+	top: -37px;
+	line-height: 30px;
+	width: 370px;
+	border-radius: 6px;
+	padding: 0 22px;
+	font-size: 16px;
+	color: #e67300;
+}
+.code{
+	position: relative;
+	left: 200px;
+	top: -37px;
+	line-height: 30px;
+	width: 100px;
+	border-radius: 6px;
+	padding: 0 22px;
+	font-size: 16px;
+	color: #e67300;
+}
+.cardnumber{
+
+	position: relative;
+	left: 200px;
+	top: -37px;
+	line-height: 30px;
+	width: 200px;
+	border-radius: 6px;
+	padding: 0 18px;
+	font-size: 16px;
+	color: #e67300;
+}
+.cvv{
+	position: relative;
+	color: #e67300;
+	text-transform: capitalize;
+	font-size: 12px;
+	left: 54px;
+	top:-4px;
+}
+.number{
+	position: relative;
+	color: #e67300;
+	text-transform: capitalize;
+	font-size: 14px;
+	left: -30px;
+	top:-4px;
+}
+
+
+.customer{
+	position: relative;
+	color: #e67300;
+	text-transform: capitalize;
+	font-size: 14px;
+	left: 230px;
+	top:75px;
+}
+
+
+#button1{
+	background-color:#e67300;
+ display: block;
+padding: 14px 90px;
+outline: none;
+color:black;
+text-align: center;
+
+border: 2px solid #3666473;
+}
+
+#date{
+	color: white;
+}
+.submit00{
+	background-color: #595959;
+	display: block;
+	margin: 20px 0px 0px 20px;
+	text-align: center;
+	border-radius: 120px;
+	border: 2px solid #3666473;
+	padding: 14px 90px;
+	outline: none;
+	color:#e67300;
+}
+
+.sibmit11{
+ background-color:#e67300;
+ display: block;
+ padding: 10px 50px;
+ margin: -30px 0px 0px 198px;
+outline: none;
+color:black;
+text-align: center;
+border-radius: 70px;
+border: 2px solid #3666473;
+}
+
+
+h2{
+	color: white;
+}
+.Password00{
+	
+	padding: 10px 10px;
+
+	
+	margin: 10px -6px -22px 180px;
+	text-align: left;
+	border-radius: 120px;
+	border: 3px ;
+	color:black;
+
+}
+h3{
+	color: #e67300;
+}
+.googlemap{
+ background-color:#e67300;
+ display: block;
+ font-style: bold;
+ padding: 20px   80px;
+text-align: 20px;
+font-size: 15px;
+padding-right: 80px;
+
+color:black;
+text-align: center;
+border-radius: 190px;
+border: 4px solid #3666473;
+}
+#para{
+	color:#e67300;
+	font-size: 17px;
+	font-weight: 600;
+	margin-top: 20px;
+	padding-left: 980px;
+	
+}
+.bt1{
+	 background-color:#e67300;
+ display: block;
+ padding: 10px 50px;
+ margin: 100px 0px 0px 198px;
+outline: none;
+color:black;
+text-align: center;
+border-radius: 70px;
+border: 2px solid #3666473;
+}

@@ -1,0 +1,48 @@
+
+
+form{
+	position: relative;
+	width: 300px;
+}
+
+form label{
+	position: relative;
+	display: block;
+}
+form input{
+	margin: 10px 
+	width: 100%;
+	background: white;
+	color: red;
+	padding: 10px;
+	
+
+}
+.emailText{
+
+	display: block;
+	
+	
+	padding: 5px;
+}
+label.valid .emailText{
+
+	color: white;
+}
+label.invalid .emailText{
+
+	color: white;
+}
+label.valid::before,
+label.invalid::before{
+	content: "";
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	top: 18px;
+	right: 5px;
+
+}
+label.valid::before{
+	
+}

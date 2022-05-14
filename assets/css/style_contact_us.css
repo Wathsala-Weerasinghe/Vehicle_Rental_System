@@ -1,0 +1,134 @@
+   *{
+   	margin: 0;
+   	padding: 30;
+   	
+    
+   }
+
+ 
+  .regfrom{
+    
+  	width: 650px;
+  	background-color:#e67300;
+   	margin-left: 30px;
+  	color:black;
+  	padding: 40px 0px 0px;
+  	text-align: center;
+  	border-radius: 15px 15px 0px 0px;
+  }
+  .mane{
+  	 background-color: #1a1a1a;
+  	 width: 650px;
+  	 margin-left: 30px;
+
+  }
+
+form{
+	padding: 20px;
+	left:60%;
+}
+
+
+ .name00{
+ 	margin-left: 25px;
+ 	margin-top: 20px;
+ 	width: 200px;
+ 	color: white;
+ 	font-size: 17px;
+ 	font-weight: 600;
+ }
+
+
+
+.tname{
+	position: relative;
+	left: 200px;
+	top: -27px;
+	line-height: 30px;
+	border-radius: 6px;
+	padding: 0 3px;
+	font-size: 16px;
+
+
+}
+
+
+.email{
+	position: relative;
+	left: 200px;
+	top: -37px;
+	line-height: 30px;
+	width: 350px;
+	border-radius: 6px;
+	padding: 0 22px;
+	font-size: 16px;
+	color:black;
+}
+.phone{
+	position: relative;
+	left: 200px;
+	top: -37px;
+	line-height: 30px;
+	width: 200px;
+	border-radius: 6px;
+	padding: 0 22px;
+	font-size: 20pxpx;
+	color: black;
+}
+
+
+
+
+.submit00{
+	background-color: #595959;
+	display: block;
+	margin: 20px 0px 0px 20px;
+	text-align: center;
+	border-radius: 120px;
+	
+	padding: 14px 90px;
+	outline: none;
+	color:white;
+}
+.emailBox{
+	color: white;
+	font-size: 20px;
+}
+
+
+h1{
+	color: white;
+	font-size: 90px;
+}
+
+h2{
+	color: white;
+	font-size: 60px;
+}
+
+  .regfrom1{
+    
+  	width: 650px;
+  	background-color:#e67300;
+   	margin-left: 30px;
+  	color:black;
+  	padding: 40px 0px 0px;
+  	text-align: center;
+  	border-radius: 2px 3px ;
+  }
+
+  h3{
+  	color: black;
+  	font-size: 40px;
+  }
+
+  h4{
+  	color: white;
+  	font-size: 23px;
+  }
+
+
+  .emailpic{
+  	right: 60px;
+  	padding-left: 700px;
+  }

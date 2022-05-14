@@ -1,0 +1,77 @@
+h1{
+	color: white;
+
+}
+h4{
+	color: white
+}
+#button4{
+  background-color: red;
+  color: yellow;
+
+  padding-right: 100px;
+  padding-top: 10px;
+  width: 20px;
+ padding-left: 100px;
+ 
+}
+#button1{
+            width: 140px;
+            height: 50px;
+            background-color: red;
+            color: yellow;
+        }
+
+         #submitbutton{
+            width: 100px;
+            height: 50px;
+            background-color: red;
+            color: yellow;
+ }       
+#date{
+  color: white;
+ font-family: inherit;
+ font-size: 20px;
+  margin-left: 10p
+}
+
+
+
+
+form{
+	position: relative;
+	width: 300px;
+}
+
+form label{
+	position: relative;
+	display: block;
+}
+form input{
+	margin: 10px 0;
+	width: 80%;
+	background: white;
+	color: red;
+	padding: 6px;
+	
+	font-size: 13px;
+	border: none;
+	outline: none;
+}
+
+
+#para{
+	color: white;
+}
+
+#button4{
+	text-align: right
+
+}
+#submitbutton1{
+	width: 70px;
+	height: 50px;
+	color: yellow;
+	background-color: red;
+
+}
